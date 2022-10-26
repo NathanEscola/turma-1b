@@ -16,7 +16,8 @@
         </body>
          </body>
                 <R1> aula html</R1>
-            <p>Muito jovens, e adultos, consomem musica todo dia. exageradamente, ou um nem gostam, mas nosso ponto são, as musicas mais ouvidas do rock/metal/pop
+            <p style="text-align:center;" </p> 
+                Muito jovens, e adultos, consomem musica todo dia. exageradamente, ou um nem gostam, mas nosso ponto são, as musicas mais ouvidas do rock/metal/pop
                 consumida por nossos adolescentes. 
                 ou noticias sobre a musica atual, e lançamentos ou curiosidade sobre vocalistas, guitarristas, e etc envolvendo tudo sobre banda ou artistas solo e suas artes
                 junto com melhores capas de album, e seus significados junto com seus criadores(ou o proprio criadores)
@@ -26,4 +27,13 @@
                   E para complementar, um dos novos album do ano de 2022 foi o do megadeth nomeado "The sick, The die, and destroy" retrazendo o classico do thrash metal e suas origens com vocais pesados
                 e uma batida mais atual junto, não deixando de ser um album coadijuvante como alguns.
                   Além disso, a volta do Dave mustaine apos sua cirurgia, voltando pros palcos e iniciando uma turnê em 2022 (Ano atual) </p>
-            </html>
+                
+                  <ol>      
+                    
+                          <li> contato</li> 
+                      
+                   
+
+
+
+                  </ol>
